@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap'); */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body {
+  font-family: "Raleway", sans-serif;
+  /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+}
+
+
+/* h1 {
+  font-weight: 900;
+  font-size: 3.5rem;
+} */
